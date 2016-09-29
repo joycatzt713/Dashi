@@ -1,7 +1,6 @@
 # Dashi 
 Dashi, is also named foodie, is a web service which aims to use personalization to improve restaurant search and recommendation based on visit history.
 Here is the introduction of my project.
-Researched common methods to provide restaurant recommendation based on item profile.
 Developed an interactive web page (HTML/javascript) for users to search restaurants, update preference and view recommended restaurants.
 Developed a web service using (Java servlet, REST API) to fetch restaurant data from Yelp API.
 Utilized MySQL to store user preference and restaurant information. 
